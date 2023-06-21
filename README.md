@@ -1,2 +1,2 @@
 # github
-course on github
+course on github in coursera
